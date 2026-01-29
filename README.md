@@ -138,29 +138,18 @@ pwd, entropy, strength, color_hex, is_error = PasswordLogic.generate_password(
 )
 ```
 
----
+## Credits & Links
 
-## Contributing
-
-Contributions are welcome. Suggested workflow:
-1. Fork the repository.
-2. Create a branch: `git checkout -b feature/your-feature`
-3. Add tests for logic changes (unit tests for `PasswordLogic` are especially useful).
-4. Commit and push: `git commit -m "Add feature" && git push origin feature/your-feature`
-5. Open a Pull Request.
-
-Please keep changes typed and maintain the MVC separation.
+- Author: Kishanu Mondal
+- GitHub: https://github.com/kxnux-builds
+- LinkedIn: https://www.linkedin.com/in/kishanu-mondal/
+- X (Twitter): https://x.com/Kxnux_Dev
 
 ---
 
 ## License
 
-This project is distributed under the MIT License — see [LICENSE](LICENSE) for details.
-
----
-
-## Contact / Author
-
-KISHANU MONDAL — copyright 2026
+See the LICENSE file for license details:
+[LICENSE](./LICENSE)
 
 ---
